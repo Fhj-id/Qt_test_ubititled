@@ -1,0 +1,8 @@
+/home/fl/code/learnlab/learn_Qt/t6/untitled/build/CMakeFiles/untitled.dir
+/home/fl/code/learnlab/learn_Qt/t6/untitled/build/CMakeFiles/edit_cache.dir
+/home/fl/code/learnlab/learn_Qt/t6/untitled/build/CMakeFiles/rebuild_cache.dir
+/home/fl/code/learnlab/learn_Qt/t6/untitled/build/CMakeFiles/list_install_components.dir
+/home/fl/code/learnlab/learn_Qt/t6/untitled/build/CMakeFiles/install.dir
+/home/fl/code/learnlab/learn_Qt/t6/untitled/build/CMakeFiles/install/local.dir
+/home/fl/code/learnlab/learn_Qt/t6/untitled/build/CMakeFiles/install/strip.dir
+/home/fl/code/learnlab/learn_Qt/t6/untitled/build/CMakeFiles/untitled_autogen.dir

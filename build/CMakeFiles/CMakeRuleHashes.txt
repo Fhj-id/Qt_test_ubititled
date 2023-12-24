@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+fc93a0fb2b1caa091421b900d048c6d8 CMakeFiles/untitled_autogen
+57f23690680621d0f117ce91f04f13ff ui_mainwindow.h

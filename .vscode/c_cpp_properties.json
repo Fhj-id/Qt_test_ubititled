@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/fl/software/Qt/6.6.1/gcc_64/include",
+                "/home/fl/software/Qt/6.6.1/gcc_64/include/QtCore",
+                "/home/fl/software/Qt/6.6.1/gcc_64/include/QtGui",
+                "/home/fl/software/Qt/6.6.1/gcc_64/include/QtWidgets",
+                "/home/fl/code/learnlab/learn_Qt/t6/untitled/build",
+                "/usr/include/c++/11",
+                "/usr/include/x86_64-linux-gnu/c++/11",
+                "/usr/include/c++/11/backward",
+                "/usr/lib/gcc/x86_64-linux-gnu/11/include",
+                "/usr/local/include",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/include"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
